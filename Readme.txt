@@ -2,12 +2,19 @@ Javaproject name: sample
 package name: sample
 .Java files in the src >sample package
 
-In Eclipse the project can be added and executed directly 'As Java Projects'
+In Eclipse the project can be added and executed directly 'As Java Application'
 
 All the automation scripts are developed using Selenium webdriver Java 
 Environment: Eclipse IDE for Java
 
-The jar files to be added are attached in jar_files.zip
+Steps to add project to eclipse
+
+
+1.Extract all the files in the local drive
+1. Create a new javaproject in eclipse with ASOS-Assignment
+2.Right click on the project and select  'import' -> file systems -> browse and add the extracted files ASOS-ASSIGNMENT. Please include the .classpath and .project file  (Note - Please dont add as zip file)
+3.open src->sample->right click on .java file and 'Run as java application'
+
 Java file description:
 
 Testauto.java - Scenario 1. Automation scripts for  search for t shirts and order purple t shirts
