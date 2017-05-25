@@ -11,9 +11,9 @@ Steps to add project to eclipse
 
 
 1.Extract all the files in the local drive
-1. Create a new javaproject in eclipse with ASOS-Assignment
-2.Right click on the project and select  'import' -> file systems -> browse and add the extracted files ASOS-ASSIGNMENT. Please include the .classpath and .project file  (Note - Please dont add as zip file)
-3.open src->sample->right click on .java file and 'Run as java application'
+2. Create a new javaproject in eclipse with ASOS-Assignment
+3.Right click on the project and select  'import' -> file systems -> browse and add the extracted files ASOS-ASSIGNMENT. Please include the .classpath and .project file  (Note - Please dont add as zip file)
+4.open src->sample->right click on .java file and 'Run as java application'
 
 Java file description:
 
