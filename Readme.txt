@@ -7,7 +7,7 @@ In Eclipse the project can be added and executed directly 'As Java Projects'
 All the automation scripts are developed using Selenium webdriver Java 
 Environment: Eclipse IDE for Java
 
-
+The jar files to be added are attached in jar_files.zip
 Java file description:
 
 Testauto.java - Scenario 1. Automation scripts for  search for t shirts and order purple t shirts
